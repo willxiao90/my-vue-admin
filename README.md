@@ -1,10 +1,3 @@
-<!--
- * @Description: 本模块用于
- * @Author: xiaoshuo
- * @Date: 2020-04-05 16:09:07
- * @LastEditors: xiaoshuo
- * @LastEditTime: 2020-04-06 11:40:10
- -->
 # my-vue-admin
 
 一个简单的 vue 管理后台。基于 [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) 开源项目搭建，参考了 [RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue) 的用户管理、角色管理、日志管理等模块，并做了一些简化和修改：
