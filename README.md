@@ -4,7 +4,7 @@
 1. 用户管理去掉部门、性别和岗位。所以不需要 RuoYi-Vue 的部门管理和岗位管理。
 2. 角色管理菜单权限仅支持到菜单级别，不支持按钮级别。所以不需要 RuoYi-Vue 的菜单管理，菜单目录直接前端根据路由自动生成，减轻了后端配置菜单的麻烦。
 
-![image](https://github.com/willxiao90/my-vue-admin/raw/master/doc/snapshots/1.png)
+![image](https://github.com/willxiao90/my-vue-admin/blob/master/doc/snapshot1.png)
 
 ## Build Setup
 
