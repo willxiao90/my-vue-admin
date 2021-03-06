@@ -1,6 +1,6 @@
 # my-vue-admin
 
-一个简单的 vue 管理后台。基于 [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) 开源项目搭建，参考了 [RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue) 的用户管理、角色管理、日志管理等模块，并做了一些简化和修改：
+一个简单的 vue 管理后台模版。基于 [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) 开源项目搭建，参考了 [RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue) 的用户管理、角色管理、日志管理等模块，并做了一些简化和修改：
 1. 用户管理去掉部门、性别和岗位。所以不需要 RuoYi-Vue 的部门管理和岗位管理。
 2. 角色管理菜单权限仅支持到菜单级别，不支持按钮级别。所以不需要 RuoYi-Vue 的菜单管理，菜单目录直接前端根据路由自动生成，减轻了后端配置菜单的麻烦。
 
